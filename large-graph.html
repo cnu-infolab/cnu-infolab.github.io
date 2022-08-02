@@ -14,9 +14,9 @@
   <script type="text/jsx">
     fetch('assets/blocks.json').then(res => res.json()).then(data => {
       ReactDOM.render(
-        <ForceGraph2D
+        <ForceGraph3D
           graphData={data}
-          nodeLabel={node => `${node.user}: ${node.description}`}
+          nodeLabel={node => ``}
           nodeAutoColorBy="user"
           linkDirectionalParticles={1}
         />,
