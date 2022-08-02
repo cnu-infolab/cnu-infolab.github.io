@@ -3,7 +3,7 @@
   month: to appear
   international: true
   type: journal
-  title: Accelerating ML/DL Applications with Hierarchical Caching on Deduplication Storage Clusters
+  title: "Accelerating ML/DL Applications with Hierarchical Caching on Deduplication Storage Clusters"
   authors:
     - Prince Hamandawana
     - Awais Khan
@@ -21,7 +21,7 @@
   month: Aug
   international: true
   type: journal
-  title: Efficient Top-k Graph Similarity Search with GED constraints
+  title: "Efficient Top-k Graph Similarity Search with GED constraints"
   authors:
     - Jongik Kim
   publisher:
@@ -36,7 +36,7 @@
   month: Jun
   international: true
   type: conference
-  title: Boosting Graph Similarity Search through Pre-Computation
+  title: "Boosting Graph Similarity Search through Pre-Computation"
   authors:
     - Jongik Kim
   publisher:
@@ -51,7 +51,7 @@
   month: Sep
   international: true
   type: journal
-  title: HGED: A Hybrid Search Algorithm for Efficient Parallel Graph Edit Distance Computation
+  title: "HGED: A Hybrid Search Algorithm for Efficient Parallel Graph Edit Distance Computation"
   authors:
     - Jongik Kim
   publisher:
@@ -66,7 +66,7 @@
   month: Sep
   international: true
   type: journal
-  title: FTRM: A Cache-Based Fault Tolerant Recovery Mechanism for Multi-Channel Flash Devices
+  title: "FTRM: A Cache-Based Fault Tolerant Recovery Mechanism for Multi-Channel Flash Devices"
   authors:
     - Ronnie Mativenga
     - Prince Hamandawana
@@ -84,7 +84,7 @@
   month: May
   international: true
   type: journal
-  title: Optimized Signature Selection for Efficient String Similarity Search
+  title: "Optimized Signature Selection for Efficient String Similarity Search"
   authors:
     - Taegyoung Lee
     - Tae-Sun Chung
