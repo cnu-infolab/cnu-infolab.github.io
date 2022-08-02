@@ -6,4 +6,4 @@ layout: article
   # @end locale config
 ---
 
-## Welcome to CNU InfoLab !
+## Welcome to CNU InfoLab
