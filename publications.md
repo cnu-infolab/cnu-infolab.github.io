@@ -3,7 +3,7 @@ layout: article
 title: ""
 ---
 
-## International Publications
+## International Conferences and Journals
 
 
 {% for paper in site.data.papers %}
