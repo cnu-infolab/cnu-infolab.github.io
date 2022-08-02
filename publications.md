@@ -14,7 +14,11 @@ title: ""
 	  <div style="font-size: 1em;">
         {% for author in paper.authors %}
             {% if forloop.last == true %}
-                and {{ author }}
+                {% if author|length > 1 %}
+                    and {{ author }}
+                {% else %}
+                    {{author}}
+                {% endif %}
             {% else %}
                 {{ author }},
             {% endif %}
