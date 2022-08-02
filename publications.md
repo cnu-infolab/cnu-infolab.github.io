@@ -10,9 +10,9 @@ title: ""
     {% if paper.international == true %}
 <div class="grid">
   <div class="cell cell--auto">
-	  <div style="font-size: 1.2em; font-weight: bolder;">
+	  <div style="font-size: 1.1em; font-weight: bolder;">
 	{% if paper.type == "conference" %}
-            <a class="button button--info button--rounded button--sm">C</a>
+            <a class="button button--info button--rounded button--sm">c</a>
         {% elsif paper.type == "journal" %}
             <a class="button button--primary button--rounded button--sm">J</a>
         {% endif %}
