@@ -7,6 +7,7 @@ titles:
 #key: page-about
 ---
 
+<iframe src="https://vasturiano.github.io/react-force-graph/example/large-graph/" allowfullscreen="" frameborder="0"></iframe>
 ![CNU InfoLab](https://jongikkim.github.io/images/L1002940.jpg)
 
 ## Welcome to InfoLab@CNU
