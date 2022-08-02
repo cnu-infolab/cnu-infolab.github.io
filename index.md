@@ -9,5 +9,6 @@ titles:
     <iframe src="https://vasturiano.github.io/react-force-graph/example/large-graph/" allowfullscreen="" frameborder="0"></iframe>
 </div>
 
+## ABOUT INFOLAB
 Our lab started at Jeonbuk National University in 2007 and moved to Chungnam National University in 2022.
 
