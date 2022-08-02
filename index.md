@@ -9,6 +9,4 @@ key: page-about
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-messages for the front door
-
 ## Welcome to InfoLab@CNU
