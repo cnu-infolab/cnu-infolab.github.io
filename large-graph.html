@@ -12,7 +12,7 @@
   <div id="graph"></div>
 
   <script type="text/jsx">
-    fetch('assets/pubchem50.json').then(res => res.json()).then(data => {
+    fetch('assets/pubchem.json').then(res => res.json()).then(data => {
       ReactDOM.render(
         <ForceGraph3D
           graphData={data}
