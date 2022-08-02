@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  # en      : &EN      InfoLab@CNU
+  en      : &EN      InfoLab@CNU
   # @end locale config
 key: page-about
 ---
