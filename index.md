@@ -7,6 +7,6 @@ titles:
 key: page-about
 ---
 
-![CNU InfoLab](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+![CNU InfoLab](https://jongikkim.github.io/images/L1002940.jpg)
 
 ## Welcome to InfoLab@CNU
