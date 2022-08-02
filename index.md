@@ -6,7 +6,7 @@ titles:
   # @end locale config
 ---
 <div class="video-container">
-    <iframe src="https://vasturiano.github.io/react-force-graph/example/large-graph/" allowfullscreen="" frameborder="0"></iframe>
+    <iframe src="large-graph.html" allowfullscreen="" frameborder="0"></iframe>
 </div>
 
 ## ABOUT INFOLAB
