@@ -16,7 +16,7 @@
       ReactDOM.render(
         <ForceGraph3D
           graphData={data}
-          nodeLabel={node => ``}
+          nodeLabel={node => `${node.user}`}
           nodeAutoColorBy="user"
           linkDirectionalParticles={1}
         />,
