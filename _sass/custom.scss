@@ -1,0 +1,102 @@
+/* start custom scss snippet */
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Nunito:wght@300&display=swap');
+
+
+body {
+    font-family: 'Nunito', 'Gowun Dodum', sans-serif;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.video-container #main {
+    position: absolute;
+    color: #fff;
+    text-align: left;
+    width: 100%;
+    margin-top: -20px;
+    font-weight: bold;
+    font-size: 3em;
+    margin-left: 30px;
+}
+
+@media screen and (max-width: 500px)
+{
+    .video-container #main {
+        font-size: 1.5em;
+        margin-left: 20px;
+    }
+    .item#largescreen {
+        display: none;
+    }
+    .item#smallscreen {
+        display: inline;
+    }
+    .mt-2#largescreen {
+        display: none;
+    }
+    .mt-3#smallscreen {
+        display: flex;
+    }
+}
+
+
+@media screen and (max-width: 909px) and (min-width: 501px)
+{
+    .video-container #main {
+        font-size: 3em;
+        margin-left: 30px;
+    }
+    .item#largescreen {
+        display: none;
+    }
+    .item#smallscreen {
+        display: inline;
+    }
+    .mt-2#largescreen {
+        display: none;
+    }
+    .mt-3#smallscreen {
+        display: flex;
+    }
+}
+
+@media screen and (min-width: 910px)
+{
+    .video-container #main {
+        font-size: 3em;
+        margin-left: 30px;
+    }
+    .item#largescreen {
+        display: flex;
+    }
+    .item#smallscreen {
+        display: none;
+    }
+    .mt-2#largescreen {
+        display: flex;
+    }
+    .mt-3#smallscreen {
+        display: none;
+    }
+}
+
+.swiper-demo {
+    height: 220px;
+}
+
+
+/* end custom scss snippet */
