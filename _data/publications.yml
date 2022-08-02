@@ -15,3 +15,20 @@
   bib:
   code:
   slide:
+- year: 
+  month: to appear
+  international: true
+  type: journal
+  title: Accelerating ML/DL Applications with Hierarchical Caching on Deduplication Storage Clusters
+  authors:
+    - Prince Hamandawana
+    - Awais Khan
+    - Jongik Kim
+    - Tae-Sun Chung
+  publisher:
+    venue: "IEEE Transactions on Big Data"
+    link:
+  pdf:
+  bib:
+  code:
+  slide:
