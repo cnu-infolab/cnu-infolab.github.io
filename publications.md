@@ -6,7 +6,7 @@ title: ""
 ## International Publications
 
 
-{% for paper in site.data.publications %}
+{% for paper in site.data.papers %}
     {% if paper.international == true %}
 <div class="grid">
   <div class="cell cell--auto">
@@ -69,6 +69,4 @@ title: ""
 <!--
 ## Domestic Publications
 
-
-## Patents
 -->
