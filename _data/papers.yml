@@ -13,3 +13,33 @@
   bib: ""
   code: ""
   slide:
+
+- year: 2022
+  month: Aug
+  international: true
+  type: journal
+  title: Efficient Top-k Graph Similarity Search with GED constraints
+  authors:
+    - Jongik Kim
+  publisher:
+    venue: "IEEE Access 10"
+    link:
+  pdf: ""
+  bib: ""
+  code: ""
+  slide:
+
+- year: 2022
+  month: Aug
+  international: true
+  type: journal
+  title: Efficient Top-k Graph Similarity Search with GED constraints
+  authors:
+    - Jongik Kim
+  publisher:
+    venue: "IEEE Access 10"
+    link:
+  pdf: ""
+  bib: ""
+  code: ""
+  slide:
