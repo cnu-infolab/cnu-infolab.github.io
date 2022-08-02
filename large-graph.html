@@ -16,9 +16,10 @@
       ReactDOM.render(
         <ForceGraph3D
           graphData={data}
-          backgroundColor='#fff'
+          backgroundColor='#000'
           nodeLabel={node => `${node.user}`}
-          linkColor='#000'
+          linkColor='#fff'
+          linkWidth=3
           nodeAutoColorBy="user"
           linkDirectionalParticles={1}
         />,
