@@ -15,4 +15,4 @@ header:
       # @start locale config
       en      : &EN       Publications
       # @end locale config
-    url: /publications
+    url: /publications.html

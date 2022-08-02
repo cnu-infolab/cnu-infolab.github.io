@@ -1,6 +1,5 @@
 ---
 layout: article
-title: ""
 ---
 
 ## International Publications
