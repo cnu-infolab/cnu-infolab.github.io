@@ -13,14 +13,12 @@ title: ""
 	  <div style="font-size: 1.2em; font-weight: bolder;">{{paper.title}}</div>
 	  <div style="font-size: 1em;">
         {% for author in paper.authors %}
-            {% if forloop.last == true %}
-                {% if author|length > 1 %}
-                    and {{ author }}
-                {% else %}
-                    {{author}}
-                {% endif %}
-            {% else %}
+            {% if forloop.last != true %}
                 {{ author }},
+            {% elsif paper.authors|length > 1 %}
+                and {{ author }}
+            {% else %}
+                {{author}}
             {% endif %}
         {% endfor %}
 	  </div>
