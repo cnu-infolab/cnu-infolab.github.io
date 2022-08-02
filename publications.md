@@ -10,14 +10,7 @@ title: ""
     {% if paper.international == true %}
 <div class="grid">
   <div class="cell cell--auto">
-	  <div style="font-size: 1.1em; font-weight: bolder;">
-	{% if paper.type == "conference" %}
-            <a class="button button--info button--rounded button--sm">c</a>
-        {% elsif paper.type == "journal" %}
-            <a class="button button--primary button--rounded button--sm">J</a>
-        {% endif %}
-	{{paper.title}}
-	  </div>
+	  <div style="font-size: 1.1em; font-weight: bolder;">{{paper.title}}</div>
 	  <div style="font-size: 1em;">
         {% for author in paper.authors %}
             {% if forloop.last != true %}
@@ -35,7 +28,12 @@ title: ""
             {{ paper.publisher.venue }}
         </a>
         {% else %}
-            {{ paper.publisher.venue }}
+            {% if paper.type == "conference" %}
+                <a class="button button--info button--rounded button--sm">Conference</a>
+            {% elsif paper.type == "journal" %}
+                <a class="button button--primary button--rounded button--sm">Journal</a>
+            {% endif %}
+	    {{ paper.publisher.venue }}
         {% endif %}
 	<i class="far fa-calendar-alt fa-fw"></i> {{ paper.month }} {{ paper.year }}
 	  </div>
