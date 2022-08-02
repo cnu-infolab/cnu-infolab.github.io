@@ -14,7 +14,7 @@ layout: article
         {% for author in paper.authors %}
             {% if forloop.last != true %}
                 {{ author }},
-            {% elsif paper.authors|length > 1 %}
+            {% elsif paper.authors[0] != author %}
                 and {{paper.authors|length}}
             {% else %}
                 {{author}}
