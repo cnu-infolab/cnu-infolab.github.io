@@ -13,5 +13,6 @@ Visualization of <a href="https://pubchem.ncbi.nlm.nih.gov">PubChem</a> chemical
 </div>
 
 ## ABOUT INFOLAB
+
 Our lab started at Jeonbuk National University in 2007 and moved to Chungnam National University in 2022.
 
