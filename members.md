@@ -9,7 +9,12 @@ title: ""
   <div class="cell cell--auto">
 	  <div>
       Jongik Kim 
-      <a href="https://jongikkim.github.io"><i class="fas fa-file fa-fw"></i></a>
+      <script type="text/javascript">
+      var email="jongik"
+      var domain="cnu.ac.kr"
+      document.write("<a style=text-decoration:none href="+"mail"+"to:"+email+"@"+domain+">"+"<i class=\"fas fa-home fa-fw\"><\/i>"+"<\/a>")
+      </script>
+      <a href="https://jongikkim.github.io"><i class="fas fa-home fa-fw"></i></a>
       </div>
 	  <div> Department of Artificial Intelligence </div>
 	  <div> Chungnam National University </div>
