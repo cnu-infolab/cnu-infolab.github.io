@@ -9,7 +9,7 @@ title: ""
   <div class="cell cell--auto">
 	  <div>
       Jongik Kim 
-      <a href="index.html"><i class="far fa-envelop fa-fw"></i></a>
+      <i class="far fa-envelop fa-fw"></i>
       </div>
 	  <div> Department of Artificial Intelligence </div>
 	  <div> Chungnam National University </div>
