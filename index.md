@@ -7,6 +7,7 @@ titles:
 ---
 <div class="video-container">
     <iframe src="large-graph.html" allowfullscreen="" frameborder="0"></iframe>
+    Visualization of <a href="https://pubchem.ncbi.nlm.nih.gov">PubChem</a> chemical compound graph data (100 graphs).
 </div>
 
 ## ABOUT INFOLAB
