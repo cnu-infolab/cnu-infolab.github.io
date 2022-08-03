@@ -1,10 +1,11 @@
 ---
 layout: article
-titles: ""
+titles: " "
 ---
 
 ## Professor
 - Jongik Kim (jongik AT cnu DOT ac DOT kr)
+<i class="fa-solid fa-mailbox"></i>
 
 ## Student
 - Currently, we have no graduate student in our lab
