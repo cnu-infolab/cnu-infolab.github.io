@@ -6,10 +6,10 @@ titles:
   # @end locale config
 ---
 <div class="video-container">
-    <iframe src="large-graph.html" allowfullscreen="" frameborder="0"></iframe>
+    <iframe src="bloom-graph.html" allowfullscreen="" frameborder="0"></iframe>
 </div>
 <div align="right" style="font-size: 0.7em;">
-Visualization of <a href="https://pubchem.ncbi.nlm.nih.gov">PubChem</a> chemical compound graph data (100 graphs).
+Visualization of <a href="https://pubchem.ncbi.nlm.nih.gov">PubChem</a> chemical compound graph data (100 graphs)
 </div>
 
 ## ABOUT INFOLAB
