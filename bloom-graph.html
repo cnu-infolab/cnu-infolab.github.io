@@ -1,0 +1,55 @@
+<head>
+  <style> body { margin: 0; } </style>
+
+  <script src="//unpkg.com/react/umd/react.production.min.js"></script>
+  <script src="//unpkg.com/react-dom/umd/react-dom.production.min.js"></script>
+  <script src="//unpkg.com/babel-standalone"></script>
+
+  <script src="//unpkg.com/react-force-graph-3d"></script>
+</head>
+
+<body>
+  <div id="graph"></div>
+
+  <script>
+    UnrealBloomPassPromise = import('//cdn.skypack.dev/three@0.136/examples/jsm/postprocessing/UnrealBloomPass.js')
+      .then(m => m.UnrealBloomPass);
+  </script>
+
+  <script type="text/jsx">
+
+  <script type="text/jsx">
+    UnrealBloomPassPromise.then(UnrealBloomPass => {
+      const { useRef, useEffect } = React;
+
+      fetch('assets/pubchem100.json').then(res => res.json()).then(data => {
+        const FocusGraph = () => {
+          const fgRef = useRef();
+
+          useEffect(() => {
+            const bloomPass = new UnrealBloomPass();
+            bloomPass.strength = 3;
+            bloomPass.radius = 1;
+            bloomPass.threshold = 0.1;
+            fgRef.current.postProcessingComposer().addPass(bloomPass);
+          }, []);
+
+          return <ForceGraph3D
+            ref={fgRef}
+            graphData={data}
+            backgroundColor='white'
+            nodeLabel={node => `${node.user}`}
+            nodeAutoColorBy="user"
+            linkAutoColorBy="source"
+          />;
+        };
+
+
+
+      ReactDOM.render(
+        <FocusGraph/>,
+        document.getElementById('graph')
+      );
+    });
+  </script>
+</body>
