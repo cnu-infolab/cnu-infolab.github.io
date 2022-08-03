@@ -5,7 +5,6 @@ title: ""
 
 ## International Conferences and Journals
 
-
 {% for paper in site.data.ipapers %}
     {% if paper.international == true %}
 <div class="grid">
@@ -34,7 +33,5 @@ title: ""
 {% endfor %}
 
 
-<!--
-## Domestic Publications
+## Domestic Conferences and Journals
 
--->
