@@ -1,18 +1,19 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       People
       # @end locale config
-    url: /archive.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       About
-      # @end locale config
-    url: /about.html
+    url: /people.html
 
   - titles:
       # @start locale config
       en      : &EN       Publications
       # @end locale config
     url: /publications.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Lectures
+      # @end locale config
+    url: /lectures.html
+
