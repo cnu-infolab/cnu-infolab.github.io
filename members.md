@@ -33,8 +33,8 @@ Currently, we have no graduate student in our lab.
 <div class="grid">
   <div class="cell cell--auto">
 	  <div style="font-size: 1em; font-weight: bolder;">{{member.name}}</div>
-	  <div style="font-size: 1em;"> received {{member.degree}} in {{member.gradyear}}</div>
-	  <div style="font-size: 1em;">
+	  <div style="color: #606060; font-size: 1em;"> received {{member.degree}} in {{member.gradyear}}</div>
+	  <div style="color: #606060; font-size: 1em;">
           {% if member.appointment != nil %}
               first appointment: {{ member.appointment }}
           {% endif %}
