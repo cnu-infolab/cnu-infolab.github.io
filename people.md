@@ -1,9 +1,6 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN      
-  # @end locale config
+titles: ""
 ---
 
 ## Professor
