@@ -11,7 +11,6 @@
     - Tae-Sun Chung
   publisher:
     venue: "IEEE Transactions on Big Data"
-    link:
 
 - year: 2022
   month: Aug
@@ -22,7 +21,6 @@
     - Jongik Kim
   publisher:
     venue: "IEEE Access 10"
-    link:
 
 - year: 2021
   month: Jun
@@ -33,7 +31,6 @@
     - Jongik Kim
   publisher:
     venue: "ACM SIGMOD International Conference on Management of Data"
-    link:
 
 - year: 2020
   month: Sep
@@ -44,7 +41,6 @@
     - Jongik Kim
   publisher:
     venue: "IEEE Access 8"
-    link:
 
 - year: 2020
   month: Sep
@@ -58,8 +54,6 @@
     - Tae-Sun Chung
   publisher:
     venue: "Electronics 9(10):1581"
-    link:
-
 
 - year: 2020
   month: May
@@ -72,7 +66,6 @@
     - Jongik Kim
   publisher:
     venue: "IEEE Access 8"
-    link:
 
 - year: 2019
   month: Mar
@@ -85,7 +78,6 @@
     - Chen Li
   publisher:
     venue: "International Conference on Extending Database Technology (EDBT)"
-    link:
 
 - year: 2016
   month: May
@@ -98,7 +90,6 @@
     - Xiaohui Xie
   publisher:
     venue: "IEEE International Conference on Data Engineering (ICDE)"
-    link:
 
 - year: 2015
   month: Jul
@@ -111,7 +102,6 @@
     - Jongik Kim
   publisher:
     venue: "Journal of Circuits, Systems and Computers 24(9)"
-    link:
 
 - year: 2015
   month: Jan
@@ -122,8 +112,7 @@
     - Jongik Kim
   publisher:
     venue: "Information Systems 47(1)"
-    link:
-    
+ 
 - year: 2014
   month: Feb
   international: true
@@ -135,7 +124,6 @@
     - Xiaohui Xie
   publisher:
     venue: "BMC Bioinformatics 15(1):42"
-    link:
 
 - year: 2014
   month: Oct
@@ -149,7 +137,6 @@
     - Tae-Sun Chung
   publisher:
     venue: "International Conference on IT Convergence and Security (ICITCS)"
-    link:
     
 - year: 2013
   month: Mar
@@ -163,7 +150,6 @@
     - Jongik Kim
   publisher:
     venue: "Multimedia Tools and Applications 63(1)"
-    link:
 
 - year: 2012
   month: Oct
@@ -176,7 +162,6 @@
     - Eenjun Hwang
   publisher:
     venue: "Engineering Applications of Artificial Intelligence 25(7)"
-    link:
 
 - year: 2012
   month: Mar
@@ -188,4 +173,3 @@
     - Hongrae Lee
   publisher:
     venue: "IEEE International Conference on Data Engineering (ICDE)"
-    link:
