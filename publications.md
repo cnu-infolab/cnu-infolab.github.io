@@ -9,7 +9,7 @@ title: ""
     {% if paper.international == true %}
 <div class="grid">
   <div class="cell cell--auto">
-	  <div style="font-size: 1.2em; font-weight: bolder;">{{paper.title}}</div>
+	  <div style="font-size: 1em; font-weight: bolder;">{{paper.title}}</div>
 	  <div style="font-size: 1em;">
         {% for author in paper.authors %}
             {% if forloop.last != true %}
