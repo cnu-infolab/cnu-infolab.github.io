@@ -1,54 +1,65 @@
 - name: Yejin Kim
+  alumni: true
   degree: M.S.
   gradyear: 2019
   appointment: National Health Insurance Service
   
 - name: Hanna Seok
+  alumni: true
   degree: B.S.
   gradyear: 2018
   appointment: Korea Electric Power Corporation
 
 - name: Taegyoung Lee
+  alumni: true
   degree: M.S.
   gradyear: 2017
   appointment: KAIST Graduate School
   
 - name: Sera Kwon
+  alumni: true
   degree: M.S.
   gradyear: 2017
   appointment: Naver Business Platform
 
 - name: Manu Im
+  alumni: true
   degree: M.S.
   gradyear: 2016
   appointment: KT NeXR
 
 - name: Mihee Cho
+  alumni: true
   degree: M.S.
   gradyear: 2016
   appointment: Yellow Financial Group
 
 - name: Eunseok Lee
+  alumni: true
   degree: M.S.
   gradyear: 2012
   appointment: Com2uS
 
 - name: In-Taek Kwon
+  alumni: true
   degree: M.S.
   gradyear: 2012
   appointment: AhnLab
 
 - name: Woori Park
+  alumni: true
   degree: B.S.
   gradyear: 2010
   appointment:
   
 - name: Jeongmi Kim
+  alumni: true
   degree: B.S.
   gradyear: 2011
   appointment: Samsung Electronics
 
 - name: Junsun Ryu
+  alumni: true
   degree: B.S.
   gradyear: 2009
   appointment: Nonghyup (Iksan)
