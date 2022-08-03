@@ -12,7 +12,7 @@ title: ""
       <script type="text/javascript">
       var email="jongik"
       var domain="cnu.ac.kr"
-      document.write("<a style=text-decoration:none href="+"mail"+"to:"+email+"@"+domain+">"+"<i class=\"fas fa-envelop fa-fw\"><\/i>"+"<\/a>")
+      document.write("<a style=text-decoration:none href="+"mail"+"to:"+email+"@"+domain+">"+"<i class=\"fas fa-envelope fa-fw\"><\/i>"+"<\/a>")
       </script>
       <a href="https://jongikkim.github.io"><i class="fas fa-home fa-fw"></i></a>
       </div>
