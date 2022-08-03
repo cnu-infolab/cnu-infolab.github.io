@@ -4,8 +4,10 @@ titles: " "
 ---
 
 ## Professor
-<div>
-Jongik Kim <a href=mailto:jongik@cnu.ac.kr><i class="fa-solid fa-mailbox"></i></a>
+<div class="item">
+  <div class="item__image">
+      Jongik Kim <a href=mailto:jongik@cnu.ac.kr><i class="fa-solid fa-mailbox"></i></a>
+  </div>
 </div>
 
 ## Student
