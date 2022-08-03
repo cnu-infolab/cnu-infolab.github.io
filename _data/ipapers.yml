@@ -173,3 +173,37 @@
     - Hongrae Lee
   publisher:
     venue: "IEEE International Conference on Data Engineering (ICDE)"
+
+- year: 2011
+  month: Mar
+  international: true
+  type: conference
+  title: "LSTAFF*: An Efficient Flash Translation Layer for Large Block Flash Memory"
+  authors:
+    - Tae-Sun Chung
+    - Dong-Joo Park
+    - Jongik Kim
+  publisher:
+    venue: "ACM Symposium on Applied Computing (SAC)"
+
+- year: 2009
+  month: Aug
+  international: true
+  type: journal
+  title: "Development of an Event Stream Processing System for the Vehicle Telematics Environment"
+  authors:
+    - Jongik Kim
+    - Oh-Cheon Kwon
+    - Hyun-Suk Kim
+  publisher:
+    venue: "ETRI Journal 31(4)"
+
+- year: 2006
+  month: Nov
+  international: true
+  type: journal
+  title: "Advanced Structural Joins using Element Distribution",
+  authors:
+    - Jongik Kim
+  publisher:
+    venue: "Information Sciences 176(22)"
