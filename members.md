@@ -7,24 +7,15 @@ title: ""
 
 <div class="grid">
   <div class="cell cell--auto">
-	  <div style="color: #606060; font-size: 1em;">
-      Jongik Kim	
-	  </div>
-	  <div style="color: #606060; font-size: 1em;">
-      Professor 	
-	  </div>
-	  <div style="color: #606060; font-size: 1em;">
-      Department of Artificial Intelligence
-	  </div>
-	  <div style="color: #606060; font-size: 1em;">
-      Chungnam National University
-	  </div>
+	  <div>
+      Jongik Kim 
+      <a href=""><i class="fa-solid fa-mailbox"></i></a>
+      </div>
+	  <div> Department of Artificial Intelligence </div>
+	  <div> Chungnam National University </div>
 	  <div style="color: #606060; font-size: 1em;">
       Office: Engineering Building #5, Room 513
 	  </div>
-      <div>
-      Email: jongik[AT]cnu[DOT]ac[DOT]kr
-      </div>
   </div>
 </div>
 
