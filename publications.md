@@ -21,7 +21,7 @@ title: ""
             {% endif %}
         {% endfor %}
 	  </div>
-	  <div style="color: #606060; font-size: 1em;">
+	  <div font-size: 1em;">
 	{{ paper.publisher.venue }}
 	<i class="far fa-calendar-alt fa-fw"></i> {{ paper.month }} {{ paper.year }}
 	  </div>
