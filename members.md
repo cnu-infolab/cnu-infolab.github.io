@@ -1,10 +1,23 @@
 ---
 layout: article
-titles: ""
+title: ""
 ---
 
 ## Professor
-- Jongik Kim
+
+<div class="grid">
+  <div class="cell cell--auto">
+	  <div style="color: #606060; font-size: 1em;">
+    Jongik Kim	
+	<a href=""><i class="fa-solid fa-mailbox"></i></a>
+	  </div>
+  </div>
+</div>
+
+<div class="m-3"></div>
+    {% endif %}
+{% endfor %}
+
 
 ## Student
 - Currently, we have no graduate student in our lab
