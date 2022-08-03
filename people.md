@@ -4,7 +4,9 @@ titles: " "
 ---
 
 ## Professor
-Jongik Kim <a style=text-decoration:none href=mailto:jongik@cnu.ac.kr><i class="fa-solid fa-mailbox"></i></a>
+<div>
+Jongik Kim <a href=mailto:jongik@cnu.ac.kr><i class="fa-solid fa-mailbox"></i></a>
+</div>
 
 ## Student
 - Currently, we have no graduate student in our lab
