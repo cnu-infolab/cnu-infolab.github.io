@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: " "
+titles: ""
 ---
 
 ## Professor

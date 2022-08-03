@@ -7,9 +7,9 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       People
+      en      : &EN       Members
       # @end locale config
-    url: /people.html
+    url: /members.html
 
   - titles:
       # @start locale config
