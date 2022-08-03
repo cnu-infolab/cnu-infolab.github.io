@@ -9,12 +9,12 @@ title: ""
   <div class="cell cell--auto">
 	  <div>
       Jongik Kim 
-      <i class="fa-solid fa-mailbox"></i>
+      <i class="far fa-mailbox-alt fa-fw"></i>
       </div>
 	  <div> Department of Artificial Intelligence </div>
 	  <div> Chungnam National University </div>
 	  <div style="color: #606060; font-size: 1em;">
-      Office: Engineering Building #5, Room 513
+      Office: Engineering Building #5, Room #513
 	  </div>
   </div>
 </div>
