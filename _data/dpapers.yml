@@ -1,0 +1,19 @@
+
+- year: 2019
+  month: Feb
+  title: "최적 속성 할당을 이용한 효율적인 다중 속성 유사 레코드 검색 기법"
+  authors:
+    - Yejin Kim
+    - Jongik Kim
+  publisher:
+    venue: "Journal of KIISE 46(2)"
+
+- year: 2018
+  month: June
+  note: "우수 논문상"
+  title: "역 리스트를 이용한 효율적인 다중 속성 유사 레코드 병합 기법"
+  authors:
+    - Yejin Kim
+    - Jongik Kim
+  publisher:
+    venue: "KCC 2018"

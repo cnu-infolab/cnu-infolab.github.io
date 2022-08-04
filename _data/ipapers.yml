@@ -1,7 +1,6 @@
 
 - year: 2022
   month: to appear
-  international: true
   type: journal
   title: "Accelerating ML/DL Applications with Hierarchical Caching on Deduplication Storage Clusters"
   authors:
@@ -14,7 +13,6 @@
 
 - year: 2022
   month: Aug
-  international: true
   type: journal
   title: "Efficient Top-k Graph Similarity Search with GED constraints"
   authors:
@@ -24,7 +22,6 @@
 
 - year: 2021
   month: Jun
-  international: true
   type: conference
   title: "Boosting Graph Similarity Search through Pre-Computation"
   authors:
@@ -34,7 +31,6 @@
 
 - year: 2020
   month: Sep
-  international: true
   type: journal
   title: "HGED: A Hybrid Search Algorithm for Efficient Parallel Graph Edit Distance Computation"
   authors:
@@ -44,7 +40,6 @@
 
 - year: 2020
   month: Sep
-  international: true
   type: journal
   title: "FTRM: A Cache-Based Fault Tolerant Recovery Mechanism for Multi-Channel Flash Devices"
   authors:
@@ -57,7 +52,6 @@
 
 - year: 2020
   month: May
-  international: true
   type: journal
   title: "Optimized Signature Selection for Efficient String Similarity Search"
   authors:
@@ -69,7 +63,6 @@
 
 - year: 2019
   month: Mar
-  international: true
   type: conference
   title: "Inves: Incremental Partitoning-Based Verification for Graph Similarity Search"
   authors:
@@ -81,7 +74,6 @@
 
 - year: 2016
   month: May
-  international: true
   type: conference
   title: "Hobbes3: Dynamic Generation of Variable-Length Signatures for Efficient Approximate Subsequence Mappings"
   authors:
@@ -93,7 +85,6 @@
 
 - year: 2015
   month: Jul
-  international: true
   type: journal
   title: "An Efficient Flash Translation Layer for Large Block NAND Flash Devices"
   authors:
@@ -105,7 +96,6 @@
 
 - year: 2015
   month: Jan
-  international: true
   type: journal
   title: "An Effective Candidate Generation Method for Improving Performance of Edit Similarity Query Processing"
   authors:
@@ -115,7 +105,6 @@
  
 - year: 2014
   month: Feb
-  international: true
   type: journal
   title: "Improving read mapping using additional prefix grams"
   authors:
@@ -127,7 +116,6 @@
 
 - year: 2014
   month: Oct
-  international: true
   type: conference
   title: "Efficient Method for Processing Consecutive Events over Streams with a Negation Link"
   authors:
@@ -140,7 +128,6 @@
     
 - year: 2013
   month: Mar
-  international: true
   type: journal
   title: "Multiple 3D object position estimation and tracking using double filtering on multi-core processor"
   authors:
@@ -153,7 +140,6 @@
 
 - year: 2012
   month: Oct
-  international: true
   type: journal
   title: "Hierarchical querying scheme of human motions for smart home environment"
   authors:
@@ -165,7 +151,6 @@
 
 - year: 2012
   month: Mar
-  international: true
   type: conference
   title: "Efficient Exact Similarity Searches using Multiple Token Orderings"
   authors:
@@ -176,7 +161,6 @@
 
 - year: 2011
   month: Mar
-  international: true
   type: conference
   title: "LSTAFF*: An Efficient Flash Translation Layer for Large Block Flash Memory"
   authors:
@@ -188,7 +172,6 @@
 
 - year: 2009
   month: Aug
-  international: true
   type: journal
   title: "Development of an Event Stream Processing System for the Vehicle Telematics Environment"
   authors:
@@ -200,7 +183,6 @@
 
 - year: 2006
   month: Nov
-  international: true
   type: journal
   title: "Advanced Structural Joins using Element Distribution"
   authors:
