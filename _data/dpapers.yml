@@ -10,7 +10,7 @@
     venue: "Journal of KIISE 46(2)"
 
 - year: 2018
-  month: June
+  month: Jun
   note: "우수 논문상"
   title: "역 리스트를 이용한 효율적인 다중 속성 유사 레코드 병합 기법"
   authors:
@@ -19,3 +19,211 @@
   num_authors: 2
   publisher:
     venue: "KCC 2018"
+
+- year: 2018
+  month: Jun
+  note: "우수 논문상"
+  title: "전위 트리 색인을 이용한 효율적인 유사 그래프 검색 기법"
+  authors:
+    - Hanna Seok
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2018"
+
+- year: 2017
+  month: Jun
+  note: "학부생 논문 경진대회 장려상"
+  title: "속성 간의 유사도를 이용한 정확한 다중 속성 유사 레코드 병합 기법"
+  authors:
+    - Yejin Kim
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2017"
+
+- year: 2016
+  month: Oct
+  title: "MapReduce를 이용한 효율적인 유사도 기반 그래프 질의 처리 기법"
+  authors:
+    - Jongik Kim
+    - Dong-Hoon Choi
+  num_authors: 2
+  publisher:
+    venue: "Journal of Next Generation Computing 12(5)"
+
+- year: 2016
+  month: Nov
+  title: "가변길이 그램의 역리스트 생성을 이용한 효율적인 유사 문자열 검색 기법"
+  authors:
+    - Jongik Kim
+  num_authors: 1
+  publisher:
+    venue: "Journal of KIISE 43(11)"
+
+- year: 2016
+  month: Jun
+  title: "효율적인 유사 문자열 검색을 위한 최적 HSTree 노드 선택 기법"
+  authors:
+    - Taegyoung Lee
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2016"
+
+- year: 2016
+  month: Jun
+  title: "개선된 prefix를 사용하는 효율적인 유사 그래프 검색 기법"
+  authors:
+    - Sera Kwon
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2016"
+
+- year: 2015
+  month: Oct
+  title: "유사도 검색을 위한 데이터 재배열을 이용한 공간 효율적인 역색인 기법"
+  authors:
+    - Manu Im
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "Journal of KIISE 42(10)"
+
+- year: 2015
+  month: Jun
+  note: "우수 논문상"
+  title: "유사도 기반 질의처리를 위한 공간 효율적인 역 색인 기법"
+  authors:
+    - Manu Im
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2015"
+
+- year: 2015
+  month: Jun
+  title: "효율적인 유사 문자열 검색을 위한 위치 기반 분할 역 리스트 구조"
+  authors:
+    - Mihee Cho
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2015"
+
+
+- year: 2015
+  month: Jun
+  title: "멀티코어 CPU를 이용한 효율적인 집합 유사도 조인 기법"
+  authors:
+    - Taegyoung Lee
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2015"
+
+- year: 2015
+  month: Jun
+  title: "동적 그램 길이 선택을 이용한 효율적인 DNA 리드 매핑 기법"
+  authors:
+    - Sera Kwon
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2015"
+
+- year: 2015
+  month: Apr
+  title: "Hadoop 프레임워크 상의 효율적인 다중 구조 데이터 처리 기법"
+  authors:
+    - Jongik Kim
+    - Dong-Hoon Choi
+  num_authors: 2
+  publisher:
+    venue: "Journal of Next Generation Computing 11(2)"
+
+- year: 2012
+  month: Nov
+  note: "우수 논문상"
+  title: "GPGPU를 이용한 빠르고 효율적인 유사 문자열 검색"
+  authors:
+    - Jonghwi Kim
+    - Jongik Kim
+    - Sungchan Kim
+  num_authors: 3
+  publisher:
+    venue: "KIISE Fall Conference 2012"
+
+- year: 2012
+  month: Sep
+  title: "An Efficient Edit Similarity Search Technique using Prefix Element Selection"
+  authors:
+    - Jongik Kim
+  num_authors: 1
+  publisher:
+    venue: "Journal of KIISE:Computing Practices and Letters 39(9)"
+
+- year: 2011
+  month: Dec
+  title: "비트맵 필터를 이용한 효율적인 역 리스트 탐색 기법"
+  authors:
+    - In-Taek Kwon
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "Journal of KIPS D 18-D(6)"
+
+- year: 2011
+  month: Jul
+  title: "효율적인 유사 문자열 검색을 위한 클러스터링 기법"
+  authors:
+    - Jongik Kim
+  num_authors: 1
+  publisher:
+    venue: "KIISE:Computing Practices and Letters 17(7)"
+
+- year: 2011
+  month: Jun
+  title: "유사문서 병합 시스템의 설계 및 구현"
+  authors:
+    - Woori Park
+    - In-Taek Kwon
+    - Jongik Kim
+  num_authors: 3
+  publisher:
+    venue: "KCC 2011"
+
+- year: 2011
+  month: May
+  note: "우수 논문상"
+  title: "비트맵 필터를 이용한 효율적인 유사 문자열 검색 기법"
+  authors:
+    - In-Taek Kwon
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KIPS Spring Conference"
+
+- year: 2011
+  month: May
+  title: "효율적인 유사 문자열 검색을 위한 역리스트 탐색 기법"
+  authors:
+    - Eunseok Lee
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KIPS Spring Conference"
+
+- year: 2010
+  month: Apr
+  title: "리트머스: 온라인 프로그래밍 교육 도구"
+  authors:
+    - Jongik Kim
+    - Minwoo Kim
+    - Il-Seok Oh
+    - Hyo Jong Lee
+    - Gi Hwan Cho
+  num_authors: 5
+  publisher:
+    venue: "Communcations of KIISE 28(4)"
