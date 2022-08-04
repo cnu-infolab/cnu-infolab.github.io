@@ -14,4 +14,4 @@ Rendering of 100 <a href="https://pubchem.ncbi.nlm.nih.gov">PubChem</a> chemical
 
 ## About InfoLab
 
-Our research interests are in the field of data management, including query processing and optimization, text processing, and graph search and analytics.
+Our lab started at <a href="www.jbnu.ac.kr">Jeonbuk National University</a> in 2007 and moved to <a href="www.cnu.ac.kr">Chungnam National University</a> in 2022. Our research interests are in the field of data management, including query processing and optimization, text processing, and graph search and analytics.
