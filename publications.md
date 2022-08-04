@@ -13,7 +13,7 @@ title: ""
         {% for author in paper.authors %}
             {% if forloop.last != true %}
                 {% if paper.authors|length == 2 %}
-                    {{ author }}
+                    {{ author }} {{ paper.authors|length }}
                 {% else %}
                     {{ author }},
                 {% endif %}
