@@ -16,8 +16,12 @@ title: ""
       </script>
       <a href="https://jongikkim.github.io"><i class="fas fa-home fa-fw"></i></a>
       </div>
-	  <div> Department of Artificial Intelligence </div>
-	  <div> Chungnam National University </div>
+	  <div style="color: #606060; font-size: 1em;">
+	  Department of Artificial Intelligence
+      </div>
+	  <div style="color: #606060; font-size: 1em;">
+	  Chungnam National University
+      </div>
 	  <div style="color: #606060; font-size: 1em;">
       Office: Engineering Building #5, Room #513
 	  </div>
