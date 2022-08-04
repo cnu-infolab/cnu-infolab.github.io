@@ -227,3 +227,90 @@
   num_authors: 5
   publisher:
     venue: "Communcations of KIISE 28(4)"
+
+- year: 2008
+  month: Aug
+  title: "구조화 문서 검색을 위한 다단계 역색인 기법"
+  authors:
+    - Jongik Kim
+  num_authors: 1
+  publisher:
+    venue: "Journal of KIPS B 15-B(4)"
+
+- year: 2008
+  month: Aug
+  title: "레벨 정보를 이용한 효과적인 구조 조인 기법"
+  authors:
+    - Jongik Kim
+  num_authors: 1
+  publisher:
+    venue: "Journal of KIISE:Computing Practices and Letters 14(6)"
+
+- year: 2005
+  month: Dec
+  title: "색인된 XML 문서에서 레벨 정보를 이용한 효과적인 구조 조인 기법"
+  authors:
+    - Yunho Lee
+    - Ilhwan Choi
+    - Jongik Kim
+    - Hyoung-Joo Kim
+  num_authors: 4
+  publisher:
+    venue: "Journal of KISS:Databases 32(6)"
+
+- year: 2005
+  month: Nov
+  title: "Design and Implementation of a Vehicle Telematics System"
+  authors:
+    - Jongik Kim
+    - Chulsu Kim
+    - Daesub Yoon
+    - Woo-Yong Han
+    - Oh-Cheon Kwon
+  num_authors: 5
+  publisher:
+    venue: "KISS Fall Conference"
+
+- year: 2004
+  month: Jun
+  title: "XML 데이타 색인을 위한 경로 분할 기법"
+  authors:
+    - Jongik Kim
+    - Hyoung-Joo Kim
+  num_authors: 2
+  publisher:
+    venue: "Journal of KISS:Databases 31(3)"
+
+- year: 2003
+  month: Apr
+  title: "XDBox: Impelementation of XML object repository"
+  authors:
+    - Jongik Kim
+    - Ilhwan Choi
+    - Hyun-Sook Lee
+    - Hyoung-Joo Kim
+  num_authors: 4
+  publisher:
+    venue: "KISS Spring Conference"
+
+- year: 2002
+  month: Aug
+  title: "경로 식별자를 이용한 다중 정규경로 처리 기법"
+  authors:
+    - Jongik Kim
+    - Tae-Sun Chung
+    - Hyoung-Joo Kim
+  num_authors: 3
+  publisher:
+    venue: "Journal of KISS:Databases 29(4)"
+
+- year: 2000
+  month: Apr
+  title: "A New Method for Web GIS Application Program Development"
+  authors:
+    - Jongik Kim
+    - Hyoung-Joo Kim
+    - Chin-Wan Chung
+  num_authors: 3
+  publisher:
+    venue: "KISS Spring Conference"
