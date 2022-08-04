@@ -5,6 +5,7 @@
   authors:
     - Yejin Kim
     - Jongik Kim
+  num_authors: 2
   publisher:
     venue: "Journal of KIISE 46(2)"
 
@@ -15,5 +16,6 @@
   authors:
     - Yejin Kim
     - Jongik Kim
+  num_authors: 2
   publisher:
     venue: "KCC 2018"

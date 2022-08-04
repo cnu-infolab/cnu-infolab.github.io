@@ -12,15 +12,15 @@ title: ""
 	  <div style="font-size: 1em;">
         {% for author in paper.authors %}
             {% if forloop.last != true %}
-                {% if paper.authors|length == 2 %}
-                    {{ author }} {{ paper.authors|length }}
+                {% if paper.num_authors == 2 %}
+                    {{ author }} 
                 {% else %}
                     {{ author }},
                 {% endif %}
-            {% elsif paper.authors|length > 1 %}
-                and {{author}}
+            {% elsif paper.num_authors > 1 %}
+                and {{ author }}
             {% else %}
-                {{author}}
+                {{ author }}
             {% endif %}
         {% endfor %}
 	  </div>
@@ -44,15 +44,15 @@ title: ""
 	  <div style="font-size: 1em;">
         {% for author in paper.authors %}
             {% if forloop.last != true %}
-                {% if paper.authors|length == 2 %}
-                    {{ author }}
+                {% if paper.num_authors == 2 %}
+                    {{ author }} 
                 {% else %}
                     {{ author }},
                 {% endif %}
-            {% elsif paper.authors|length > 1 %}
-                and {{author}}
+            {% elsif paper.num_authors > 1 %}
+                and {{ author }}
             {% else %}
-                {{author}}
+                {{ author }}
             {% endif %}
         {% endfor %}
 	  </div>
