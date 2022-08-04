@@ -16,7 +16,7 @@ title: ""
             {% elsif paper.authors[0] != author %}
                 and {{author}}
             {% else %}
-                {{author}}
+                {{author}} {{len(paper.authos)}}
             {% endif %}
         {% endfor %}
 	  </div>
