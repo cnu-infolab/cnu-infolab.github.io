@@ -1,7 +1,6 @@
 
 - year: 
   month: to appear
-  type: journal
   title: "Accelerating ML/DL Applications with Hierarchical Caching on Deduplication Storage Clusters"
   authors:
     - Prince Hamandawana
@@ -14,7 +13,6 @@
 
 - year: 2022
   month: Aug
-  type: journal
   title: "Efficient Top-k Graph Similarity Search with GED constraints"
   authors:
     - Jongik Kim
@@ -24,7 +22,6 @@
 
 - year: 2021
   month: Jun
-  type: conference
   title: "Boosting Graph Similarity Search through Pre-Computation"
   authors:
     - Jongik Kim
@@ -34,7 +31,6 @@
 
 - year: 2020
   month: Sep
-  type: journal
   title: "HGED: A Hybrid Search Algorithm for Efficient Parallel Graph Edit Distance Computation"
   authors:
     - Jongik Kim
@@ -44,7 +40,6 @@
 
 - year: 2020
   month: Sep
-  type: journal
   title: "FTRM: A Cache-Based Fault Tolerant Recovery Mechanism for Multi-Channel Flash Devices"
   authors:
     - Ronnie Mativenga
@@ -57,7 +52,6 @@
 
 - year: 2020
   month: May
-  type: journal
   title: "Optimized Signature Selection for Efficient String Similarity Search"
   authors:
     - Taegyoung Lee
@@ -69,7 +63,6 @@
 
 - year: 2019
   month: Mar
-  type: conference
   title: "Inves: Incremental Partitoning-Based Verification for Graph Similarity Search"
   authors:
     - Jongik Kim
@@ -81,7 +74,6 @@
 
 - year: 2016
   month: May
-  type: conference
   title: "Hobbes3: Dynamic Generation of Variable-Length Signatures for Efficient Approximate Subsequence Mappings"
   authors:
     - Jongik Kim
@@ -93,7 +85,6 @@
 
 - year: 2015
   month: Jul
-  type: journal
   title: "An Efficient Flash Translation Layer for Large Block NAND Flash Devices"
   authors:
     - Tae-Sun Chung
@@ -105,7 +96,6 @@
 
 - year: 2015
   month: Jan
-  type: journal
   title: "An Effective Candidate Generation Method for Improving Performance of Edit Similarity Query Processing"
   authors:
     - Jongik Kim
@@ -115,7 +105,6 @@
  
 - year: 2014
   month: Feb
-  type: journal
   title: "Improving read mapping using additional prefix grams"
   authors:
     - Jongik Kim
@@ -127,7 +116,6 @@
 
 - year: 2014
   month: Oct
-  type: conference
   title: "Efficient Method for Processing Consecutive Events over Streams with a Negation Link"
   authors:
     - Young Cheul Kim
@@ -140,7 +128,6 @@
     
 - year: 2013
   month: Mar
-  type: journal
   title: "Multiple 3D object position estimation and tracking using double filtering on multi-core processor"
   authors:
     - Jin-Hyung Park
@@ -153,7 +140,6 @@
 
 - year: 2012
   month: Oct
-  type: journal
   title: "Hierarchical querying scheme of human motions for smart home environment"
   authors:
     - Yoon-Sik Tak
@@ -165,7 +151,6 @@
 
 - year: 2012
   month: Mar
-  type: conference
   title: "Efficient Exact Similarity Searches using Multiple Token Orderings"
   authors:
     - Jongik Kim
@@ -176,7 +161,6 @@
 
 - year: 2011
   month: Mar
-  type: conference
   title: "LSTAFF*: An Efficient Flash Translation Layer for Large Block Flash Memory"
   authors:
     - Tae-Sun Chung
@@ -188,7 +172,6 @@
 
 - year: 2009
   month: Aug
-  type: journal
   title: "Development of an Event Stream Processing System for the Vehicle Telematics Environment"
   authors:
     - Jongik Kim
@@ -200,10 +183,110 @@
 
 - year: 2006
   month: Nov
-  type: journal
   title: "Advanced Structural Joins using Element Distribution"
   authors:
     - Jongik Kim
   num_authors: 1
   publisher:
     venue: "Information Sciences 176(22)"
+
+- year: 2006
+  month: June
+  title: "Implementation of a Web-Service Framework for the Telematics Server"
+  authors:
+    - Tae-Sun Chung
+    - Sangwon Park
+    - Ha-Joo Song
+    - Jongik Kim
+  num_authors: 4
+  publisher:
+    venue: "International Ubiquitous Convergence Conference"
+
+- year: 2006
+  month: May
+  title: "Integration of a Structural Index with a Structural Join for Accelerating Path Queries"
+  authors:
+    - Jongik Kim
+    - SooCheol Lee
+    - Oh-Cheon Kwon
+  num_authors: 3
+  publisher:
+    venue: "International Conference on Computational Science and Its Applications (LNCS 3981)"
+
+- year: 2006
+  month: Feb
+  title: "Development of Open Telematics Service Based on the Gateway and Framework"
+  authors:
+    - Chulsu Kim
+    - Jongik Kim
+    - Woo-Yong Han
+    - Oh-Cheon Kwon
+  num_authors: 4
+  publisher:
+    venue: "International Conference on Advanced Communication Technology"
+
+- year: 2005
+  month: Nov
+  title: "Telematics Transport Gateway for Telematics Systems Independent of Mobile Networks"
+  authors:
+    - Chulsu Kim
+    - Jongik Kim
+    - Woo-Yong Han
+    - Jin-Ho Song
+    - Oh-Cheon Kwon
+  num_authors: 5
+  publisher:
+    venue: "ITS World Congress"
+
+- year: 2005
+  month: Feb
+  title: "Retrieval of Element Lists using the 2-Level Inverted Index for Accelerating Structural Joins"
+  authors:
+    - Jongik Kim
+    - Jun-Ki Min
+    - Oh-Cheon Kwon
+  num_authors: 3
+  publisher:
+    venue: "International Conference on Advanced Communication Technology"
+
+- year: 2005
+  month: Feb
+  title: "Effective Path Indexes for XML data on Relational Databases"
+  authors:
+    - Jun-Ki Min
+    - Jongik Kim
+    - Miyeong Lee
+  num_authors: 3
+  publisher:
+    venue: "International Conference on Advanced Communication Technology"
+
+- year: 2004
+  month: Dec
+  title: "A Partition Index for XML and Semi-structured Data"
+  authors:
+    - Jongik Kim
+    - Hyoung-Joo Kim
+  num_authors: 2
+  publisher:
+    venue: "Data & Knowledge Engineering 51(3)"
+
+- year: 2004
+  month: July
+  title: "Efficient Structural Joins with Clustered Extents"
+  authors:
+    - Jongik Kim
+    - Sang Ho Lee
+    - Hyoung-Joo Kim
+  num_authors: 3
+  publisher:
+    venue: "Information Processing Letters"
+
+- year: 2003
+  month: April
+  title: "Efficient Processing of Regular Path Joins using PID"
+  authors:
+    - Jongik Kim
+    - Hyoung-Joo Kim
+  num_authors: 2
+  publisher:
+    venue: "Information and Software Technology 45(5)"
