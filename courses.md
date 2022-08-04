@@ -3,12 +3,12 @@ layout: article
 title: ""
 ---
 
-<h3> Fall 2022 </h3>
+<b> Fall 2022 </b>
 - Computer Programming 2 (undergraduate)
 - Advanced Functional Programming (graduate)
 - Database (graduate)
 
-<h3> Spring 2022 </h3>
+<b> Spring 2022 </b>
 - Computer Programming 3 (undergraduate)
 - Operating Systems (undergraduate)
 - Information Retrieval (graduate)
