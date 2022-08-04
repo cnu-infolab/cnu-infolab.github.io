@@ -40,7 +40,7 @@ Currently, we have no graduate student in our lab.
 	  <div style="color: #606060; font-size: 1em;"> received {{member.degree}} in {{member.gradyear}}</div>
 	  <div style="color: #606060; font-size: 1em;">
           {% if member.appointment != nil %}
-              first appointment: {{ member.appointment }}
+              {{ member.appointment }} (the first appointment)
           {% endif %}
           </div>
   </div>
