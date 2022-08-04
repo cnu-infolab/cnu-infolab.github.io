@@ -12,7 +12,7 @@ titles:
 Rendering of 100 <a href="https://pubchem.ncbi.nlm.nih.gov">PubChem</a> chemical compound graphs
 </div>
 
-## About InfoLab
+## About
 
 - Our lab started at <a href="https://www.jbnu.ac.kr">Jeonbuk National University</a> in 2007 and moved to <a href="https://www.cnu.ac.kr">Chungnam National University</a> in 2022. 
 - Our research interests are in the field of data management, including but not limited to query processing and optimization, text processing, and graph search and analytics. 
