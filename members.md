@@ -17,7 +17,7 @@ title: ""
       <a href="https://jongikkim.github.io"><i class="fas fa-home fa-fw"></i></a>
       </div>
 	  <div style="color: #606060; font-size: 1em;">
-	  Department of Artificial Intelligence
+	  Department of Artificial Intelligence and Division of Computer Convergence
       </div>
 	  <div style="color: #606060; font-size: 1em;">
 	  Chungnam National University
