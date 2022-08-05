@@ -23,7 +23,7 @@ title: ""
 	  Chungnam National University
       </div>
 	  <div style="color: #606060; font-size: 1em;">
-      Office: Engineering Building #5, Office #513
+      Office: Engineering Building #5, Room #513
 	  </div>
   </div>
 </div>
