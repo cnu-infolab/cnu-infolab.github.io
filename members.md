@@ -7,7 +7,7 @@ title: ""
 
 <div class="grid">
   <div class="cell cell--auto">
-	  <div>
+	  <div style="font-size: 1em; font-weight: bolder;">
       Jongik Kim 
       <script type="text/javascript">
       var email="jongik"
