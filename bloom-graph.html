@@ -5,20 +5,19 @@
   <script src="//unpkg.com/react-dom/umd/react-dom.production.min.js"></script>
   <script src="//unpkg.com/babel-standalone"></script>
 
+  <script src="//unpkg.com/three"></script>
+  <script src="//unpkg.com/three/examples/js/postprocessing/Pass.js"></script>
+  <script src="//unpkg.com/three/examples/js/shaders/CopyShader.js"></script>
+  <script src="//unpkg.com/three/examples/js/shaders/LuminosityHighPassShader.js"></script>
+  <script src="//unpkg.com/three/examples/js/postprocessing/UnrealBloomPass.js"></script>
+
   <script src="//unpkg.com/react-force-graph-3d"></script>
-  <!--<script src="../../src/packages/react-force-graph-3d/dist/react-force-graph-3d.js"></script>-->
 </head>
 
 <body>
   <div id="graph"></div>
 
-  <script>
-    UnrealBloomPassPromise = import('//cdn.skypack.dev/three@0.136/examples/jsm/postprocessing/UnrealBloomPass.js')
-      .then(m => m.UnrealBloomPass);
-  </script>
-
   <script type="text/jsx">
-    UnrealBloomPassPromise.then(UnrealBloomPass => {
       const { useRef, useEffect } = React;
 
       fetch('assets/pubchem100.json').then(res => res.json()).then(data => {
@@ -48,6 +47,5 @@
           document.getElementById('graph')
         );
       });
-    });
   </script>
 </body>
