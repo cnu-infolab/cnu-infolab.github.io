@@ -26,7 +26,7 @@ title: ""
 	  </div>
 	  <div style="font-size: 1em;">
 	{{ paper.publisher.venue }}
-	<img src="assets/calendar.png" height="18" width="18"> {{ paper.month }} {{ paper.year }}
+	<img src="assets/calendar.png" height="16" width="16"> {{ paper.month }} {{ paper.year }}
 	  </div>
   </div>
 </div>
@@ -61,7 +61,7 @@ title: ""
         {% if paper.note != nil %}
             ({{paper.note}}) 
         {% endif %}
-	  <img src="assets/calendar.png" height="18" width="18"> {{ paper.month }} {{ paper.year }}
+	  <img src="assets/calendar.png" height="16" width="16"> {{ paper.month }} {{ paper.year }}
 	  </div>
   </div>
 </div>
