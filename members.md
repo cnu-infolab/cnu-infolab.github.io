@@ -14,7 +14,7 @@ title: ""
       var domain="cnu.ac.kr"
       document.write("<a style=text-decoration:none href="+"mail"+"to:"+email+"@"+domain+">"+"<img src=\"assets\/email.png\" height=\"18\" width=\"18\">"+"<\/a>")
       </script>
-      <a href="https://jongikkim.github.io"><img src="assets/home.png" height="16" width="16"></a>
+      <a href="https://jongikkim.github.io"><img src="assets/home.png" height="18" width="18"></a>
       </div>
 	  <div style="color: #606060; font-size: 1em;">
 	  Department of Computer Science and Engineering
