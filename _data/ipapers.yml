@@ -1,6 +1,6 @@
 
-- year: 
-  month: to appear
+- year: 2022
+  month: Nov
   title: "Accelerating ML/DL Applications with Hierarchical Caching on Deduplication Storage Clusters"
   authors:
     - Prince Hamandawana
@@ -9,7 +9,7 @@
     - Tae-Sun Chung
   num_authors: 4
   publisher:
-    venue: "IEEE Transactions on Big Data"
+    venue: "IEEE Transactions on Big Data 8(6)"
 
 - year: 2022
   month: Aug
