@@ -1,4 +1,30 @@
 
+- year: 2022
+  month: Nov
+  title: "에지-클라우드 기반의 발전소 감시 시스템의 통신 프로토콜 설계 및 구현"
+  authors:
+    - Yewon Kim
+    - Sanghyun Park
+    - Honggi Oh
+    - Jongik Kim
+    - Hoon Choi
+  num_authors: 5
+  publisher:
+    venue: "2022 KICS Fall Conference"
+
+- year: 2022
+  month: Nov
+  title: "효율적인 IoT 데이터 수집을 위한 분산 저장 에지 노드 설계 및 데이터 파이프라인에 관한 연구"
+  authors:
+    - Honggi Oh
+    - Sanghyun Park
+    - Yewon Kim
+    - Jongik Kim
+    - Hoon Choi
+  num_authors: 5
+  publisher:
+    venue: "2022 KICS Fall Conference"
+
 - year: 2019
   month: Feb
   title: "최적 속성 할당을 이용한 효율적인 다중 속성 유사 레코드 검색 기법"
