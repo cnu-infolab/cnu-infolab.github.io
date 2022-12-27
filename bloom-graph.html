@@ -6,18 +6,16 @@
   <script src="//unpkg.com/@babel/standalone"></script>
 
   <script src="//unpkg.com/three"></script>
-  <script src="//unpkg.com/three/examples/js/postprocessing/Pass.js"></script>
-  <script src="//unpkg.com/three/examples/js/shaders/CopyShader.js"></script>
-  <script src="//unpkg.com/three/examples/js/shaders/LuminosityHighPassShader.js"></script>
-  <script src="//unpkg.com/three/examples/js/postprocessing/UnrealBloomPass.js"></script>
-
   <script src="//unpkg.com/react-force-graph-3d"></script>
 </head>
 
 <body>
   <div id="graph"></div>
 
-  <script type="text/jsx">
+  <script type="importmap">{ "imports": { "three": "https://unpkg.com/three/build/three.module.js" }}</script>
+  <script type="text/jsx" data-type="module">
+    import { UnrealBloomPass } from '//unpkg.com/three/examples/jsm/postprocessing/UnrealBloomPass.js';
+  
       const { useRef, useEffect } = React;
 
       fetch('assets/pubchem100.json').then(res => res.json()).then(data => {
