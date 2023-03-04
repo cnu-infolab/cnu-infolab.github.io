@@ -1,4 +1,12 @@
-
+- year: 2023
+  month: 
+  title: "Efficient Graph Edit Distance Computation Using Isomorphic Vertices"
+  authors:
+    - Jongik Kim
+  num_authors: 1
+  publisher:
+    venue: "to appear in Pattern Recognition Letters"
+    
 - year: 2022
   month: Nov
   title: "Accelerating ML/DL Applications with Hierarchical Caching on Deduplication Storage Clusters"
