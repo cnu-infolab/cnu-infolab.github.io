@@ -29,8 +29,18 @@ title: ""
 </div>
 
 ## Student
-Currently, we have no graduate student in our lab.
+{% for member in site.data.people %}
+    {% if member.alumni == false %}
+<div class="grid">
+  <div class="cell cell--auto">
+	  <div style="font-size: 1em; font-weight: bolder;">{{member.name}} ({{member.degree}} student)</div>
+  </div>
+</div>
 
+<div class="m-3"></div>
+    {% endif %}
+{% endfor %}
+	  
 ## Alumni
 {% for member in site.data.people %}
     {% if member.alumni == true %}
