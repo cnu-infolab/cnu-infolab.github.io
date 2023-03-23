@@ -1,3 +1,15 @@
+- name: 김현경
+  alumni: false
+  degree: Ph.D
+  
+- name: 심우철
+  alumni: false
+  degree: M.S.
+  
+- name: 이준규
+  alumni: false
+  degree: B.S.
+  
 - name: 김예진 (Yejin Kim)
   alumni: true
   degree: M.S.
