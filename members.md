@@ -33,7 +33,7 @@ title: ""
     {% if member.alumni == false %}
 <div class="grid">
   <div class="cell cell--auto">
-	  <div style="font-size: 1em; font-weight: bolder;">{{member.name}} ({{member.degree}} student)</div>
+	  <div style="font-size: 1em; font-weight: bolder;">{{member.name}} {{member.degree}} student</div>
   </div>
 </div>
 
