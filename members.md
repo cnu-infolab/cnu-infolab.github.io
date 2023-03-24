@@ -28,7 +28,7 @@ title: ""
   </div>
 </div>
 
-## Student
+## Students
 {% for member in site.data.people %}
     {% if member.alumni == false %}
 <div class="grid">
