@@ -1,6 +1,5 @@
 - year: 2023
   month: Dec
-  note: "학부생 논문 경진대회 장려상"
   title: "노드 레벨 임베딩을 이용한 그래프 편집거리 학습 기법"
   authors:
     - Jungyu Lee
@@ -11,6 +10,7 @@
 
 - year: 2023
   month: Dec
+  note: "학부생 논문 경진대회 장려상"
   title: "JOY: 클라이언트 중심 코딩테스트 플랫폼"
   authors:
     - Hojeong Eom
