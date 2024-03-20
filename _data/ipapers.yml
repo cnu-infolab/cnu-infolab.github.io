@@ -1,3 +1,15 @@
+- year: 2024
+  month: 
+  title: "A Framework for Enhancing Privacy and Anonymity in Blockchain-Enabled IoT Devices"
+  authors:
+    - Muhammad Saad
+    - Muhammad Raheel Bhutta
+    - Jongik Kim
+    - Tae-Sun Chung
+  num_authors: 4
+  publisher:
+    venue: "CMC-Computers, Materials & Continua"
+
 - year: 2023
   month: 
   title: "Efficient Graph Edit Distance Computation Using Isomorphic Vertices"
