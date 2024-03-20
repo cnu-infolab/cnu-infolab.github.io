@@ -211,7 +211,7 @@
     venue: "Information Sciences 176(22)"
 
 - year: 2006
-  month: June
+  month: Jun
   title: "Implementation of a Web-Service Framework for the Telematics Server"
   authors:
     - Tae-Sun Chung
@@ -291,7 +291,7 @@
     venue: "Data & Knowledge Engineering 51(3)"
 
 - year: 2004
-  month: July
+  month: Jul
   title: "Efficient Structural Joins with Clustered Extents"
   authors:
     - Jongik Kim
@@ -302,7 +302,7 @@
     venue: "Information Processing Letters"
 
 - year: 2003
-  month: April
+  month: Apr
   title: "Efficient Processing of Regular Path Joins using PID"
   authors:
     - Jongik Kim
