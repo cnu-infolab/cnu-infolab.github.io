@@ -8,7 +8,15 @@
   
 - name: 이준규
   alumni: false
-  degree: Undergraduate
+  degree: MS
+
+- name: 김현경 (산업시스템공학과)
+  alumni: false
+  degree: Master (part-time)
+
+- name: 김동우 (산업시스템공학과)
+  alumni: false
+  degree: Master (part-time)
   
 - name: 김예진 (Yejin Kim)
   alumni: true
