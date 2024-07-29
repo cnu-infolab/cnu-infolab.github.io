@@ -1,3 +1,36 @@
+- year: 2024
+  month: Jun
+  title: "사상 행렬을 이용한 효율적인 그래프 편집 거리 학습 기법"
+  note: "최우수논문상"
+  authors:
+    - Jungyu Lee
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2024"
+
+- year: 2024
+  month: Jun
+  title: "CPC 생성 필터를 활용한 특허 자동분류 기법"
+  note: "우수논문상"
+  authors:
+    - WooChul Sim
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2024"
+
+- year: 2024
+  month: Jun
+  title: "동적 하이브리드 군집화를 이용한 비행경로 예측 기법"
+  authors:
+    - Hyounkyoung Kim
+    - Daekeun Jeon
+    - Jongik Kim
+  num_authors: 3
+  publisher:
+    venue: "KCC 2024"
+
 - year: 2023
   month: Dec
   title: "노드 레벨 임베딩을 이용한 그래프 편집거리 학습 기법"
