@@ -1,4 +1,16 @@
 - year: 2024
+  month: Jun
+  title: "Lightlore: An Adaptation Framework for Design and Development of xAPI-Based Adaptive Context-Aware Learning Environments"
+  authors:
+    - Aziz Hasanov
+    - Teemu H. Laine
+    - Jongik Kim
+    - Tae-Sun Chung
+  num_authors: 4
+  publisher:
+    venue: "Electronics 13(13)"
+
+- year: 2024
   month: Mar
   title: "A Framework for Enhancing Privacy and Anonymity in Blockchain-Enabled IoT Devices"
   authors:
