@@ -5,12 +5,14 @@ titles:
   en      : &EN      
   # @end locale config
 ---
+<!--
 <div class="video-container">
     <iframe src="bloom-graph.html" allowfullscreen="" frameborder="0"></iframe>
 </div>
 <div align="right" style="font-size: 0.7em;">
 Rendering of 100 chemical compound graphs
 </div>
+-->
 
 ## About
 
