@@ -1,3 +1,13 @@
+- year: 2025
+  month: Jan
+  title: "노드 사상 정보를 이용한 효과적인 그래프 편집 거리 학습 모델"
+  authors:
+    - Jungyu Lee
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "Journal of KIISE 52(1)"
+
 - year: 2024
   month: Jun
   note: "최우수논문상"  
