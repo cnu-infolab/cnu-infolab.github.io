@@ -2,6 +2,17 @@
 layout: article
 title: ""
 ---
+<b> Fall 2025 </b>
+- Algorithm (undergraduate)
+- Advanced Functional Programming (graduate)
+
+<b> Spring 2025 </b>
+- Discrete Mathmatics (undergraduate)
+- Information Retrieval (graduate)
+
+<b> Fall 2024 </b>
+- Algorithm (undergraduate)
+
 <b> Spring 2024 </b>
 - Discrete Mathmatics (undergraduate)
 - Information Retrieval (graduate)
