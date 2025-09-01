@@ -1,22 +1,26 @@
 - name: 김현경
   alumni: false
   degree: Ph.D. (part-time)
-  
-- name: 심우철
-  alumni: false
-  degree: Master (part-time)
-  
+
 - name: 이준규
   alumni: false
-  degree: MS
+  degree: Master
+  
+- name: 심우철
+  alumni: true
+  degree: M.S.
+  gradyear: 2025
+  appointment: Korea Institute of Patent Information
 
 - name: 김현경 (산업시스템공학과)
-  alumni: false
-  degree: Master (part-time)
+  alumni: true
+  degree: M.S.
+  gradyear: 2025
 
 - name: 김동우 (산업시스템공학과)
-  alumni: false
-  degree: Master (part-time)
+  alumni: true
+  degree: M.S.
+  gradyear: 2025
   
 - name: 김예진 (Yejin Kim)
   alumni: true
