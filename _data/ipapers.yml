@@ -6,7 +6,7 @@
     - Jongik Kim
   num_authors: 2
   publisher:
-    venue: "International Conference on Information and Knowledge Management (CIKM)"
+    venue: "ACM International Conference on Information and Knowledge Management (CIKM)"
 - year: 2024
   month: Jun
   title: "Lightlore: An Adaptation Framework for Design and Development of xAPI-Based Adaptive Context-Aware Learning Environments"
