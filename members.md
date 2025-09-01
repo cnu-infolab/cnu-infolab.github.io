@@ -50,12 +50,13 @@ title: ""
 	  <div style="color: #606060; font-size: 1em;"> received {{member.degree}} in {{member.gradyear}}</div>
 	  <div style="color: #606060; font-size: 1em;">
           {% if member.appointment != nil %}
-              {{ member.appointment }}
+		      {% if member.not_first == nil %}
+                  {{ member.appointment }}(the first appointment)
+		      {% else %}
+		          {{ member.appointment }}
+		      {% endif %}
           {% endif %}
-		  {% if member.not_first == nil %}
-              (the first appointment)
-          {% endif %}
-          </div>
+	  </div>
   </div>
 </div>
 
