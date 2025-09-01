@@ -52,6 +52,9 @@ title: ""
           {% if member.appointment != nil %}
               {{ member.appointment }} (the first appointment)
           {% endif %}
+		  {% if member.not_first == nil %}
+              (the first appointment)
+          {% endif %}
           </div>
   </div>
 </div>
