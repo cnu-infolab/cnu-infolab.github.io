@@ -51,7 +51,7 @@ title: ""
 	  <div style="color: #606060; font-size: 1em;">
           {% if member.appointment != nil %}
 		      {% if member.not_first == nil %}
-                  {{ member.appointment }}(the first appointment)
+                  {{ member.appointment }} (the first appointment)
 		      {% else %}
 		          {{ member.appointment }}
 		      {% endif %}
