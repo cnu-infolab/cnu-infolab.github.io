@@ -4,6 +4,7 @@ title: ""
 ---
 <b> Fall 2025 </b>
 - Algorithm (undergraduate)
+- Computer Programming 2 (undergraduate)
 - Advanced Functional Programming (graduate)
 
 <b> Spring 2025 </b>
