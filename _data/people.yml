@@ -17,11 +17,15 @@
   alumni: true
   degree: M.S.
   gradyear: 2025
+  appointment: K3i
+  not_first: true
 
 - name: 김동우 (산업시스템공학과)
   alumni: true
   degree: M.S.
   gradyear: 2025
+  appointment: JWINS
+  not_first: true
 
 - name: 김예진 (Yejin Kim)
   alumni: true
