@@ -1,3 +1,12 @@
+- year: 2026
+  month: Jun
+  title: "A Data-Driven Framework for Route Structure Modeling in Strategic Air Traffic Flow Management"
+  authors:
+    - Hyounkyoung Kim
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "IEEE Access 14"
 - year: 2025
   month: Nov
   title: "Learning Graph Edit Distance via Node Matching Patterns"
