@@ -1,3 +1,56 @@
+- year: 2026
+  month: Jun
+  note: "학부생논문경진대회장려상"
+  title: "Lambda-F: 유사도 검색을 통한 장기 기억 강화 기반 교통 수요 예측 모델"
+  authors:
+    - Jinsu Kim
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2026"
+    
+- year: 2026
+  month: Jun
+  title: "복합 외부 요인 통합 기반의 교통 수요 예측 모델"
+  authors:
+    - Yujeong Kim
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2026"
+    
+- year: 2026
+  month: Jun
+  title: "데이터 희소성 완화를 위한 동적 시공간 그래프 신경망 기반 택시 수요 예측"
+  authors:
+    - Jin-Woo Kim
+    - Jongik Kim
+  num_authors: 2
+  publisher:
+    venue: "KCC 2026"
+    
+- year: 2025
+  month: Jun
+  title: "대규모 언어모델을 활용한 효과적인 점진적 키워드 검색 기법"
+  authors:
+    - Hyeongyeong Kim
+    - Jungyu Lee
+    - Jongik Kim
+  num_authors: 3
+  publisher:
+    venue: "KCC 2025"
+    
+- year: 2025
+  month: Jun
+  title: "업무 정보 추출을 위한 대형 언어 모델 기반 이메일 분석 기법"
+  authors:
+    - Dongwoo Kim
+    - Jungyu Lee
+    - Jongik Kim
+  num_authors: 3
+  publisher:
+    venue: "KCC 2025"
+
 - year: 2025
   month: Jan
   title: "노드 사상 정보를 이용한 효과적인 그래프 편집 거리 학습 모델"
