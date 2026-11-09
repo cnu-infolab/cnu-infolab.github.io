@@ -1,10 +1,16 @@
 - name: 김현경
-  alumni: false
-  degree: Ph.D. (part-time)
+  alumni: true
+  degree: Ph.D.
+  gradyear: 2026
+  appointment: Korea Aerospace Research Institute
+  not_first: true
 
 - name: 이준규
-  alumni: false
-  degree: Master
+  alumni: true
+  degree: M.S.
+  gradyear: 2026
+  appointment: Korea Conformity Laboratories
+
   
 - name: 심우철
   alumni: true
@@ -43,8 +49,9 @@
   alumni: true
   degree: M.S.
   gradyear: 2017
-  appointment: KAIST Graduate School
-  
+  appointment: Agency for Defence Development
+  not_first: true
+    
 - name: 권세라 (Sera Kwon)
   alumni: true
   degree: M.S.
